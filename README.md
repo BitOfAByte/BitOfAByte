@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/-DaatUserName-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hopetobylol@gmail.com"/>
 <img src="https://img.shields.io/badge/-Nemijah%236392-085e8b?style=flat-square&logo=Discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/-DaatUserName-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/DaatUser"/>
-
+<img src="https://img.shields.io/badge/-Toby-darkgreen?style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/Toby"/>
 </p>
 
 
