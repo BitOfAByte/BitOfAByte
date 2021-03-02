@@ -58,7 +58,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="C++" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"/>
-<img align="left" alt="C#" width="26px" src="https://www.kindpng.com/picc/m/608-6084179_transparent-c-programming-png-c-sharp-logo-png.png" />
+<img align="left" alt="C#" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Intellij" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png" />
