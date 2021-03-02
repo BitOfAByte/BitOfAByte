@@ -1,8 +1,8 @@
 <!--START_SECTION:activity-->
-<h1 align="center">Hi 👋, I'm Toby aka. Nemijah</h1>
-<h3 align="center">A 19 year old developer from Denmark</h3>
-<br>
-<br>
+1. ❗️ Closed issue [#25](https://github.com/xixi52/discord-canvas/issues/25) in [xixi52/discord-canvas](https://github.com/xixi52/discord-canvas)
+2. 🗣 Commented on [#25](https://github.com/xixi52/discord-canvas/issues/25) in [xixi52/discord-canvas](https://github.com/xixi52/discord-canvas)
+3. 🗣 Commented on [#25](https://github.com/xixi52/discord-canvas/issues/25) in [xixi52/discord-canvas](https://github.com/xixi52/discord-canvas)
+4. 💪 Opened PR [#1](https://github.com/visa0013/Uge-2-/pull/1) in [visa0013/Uge-2-](https://github.com/visa0013/Uge-2-)
 1. ❗️ Closed issue [#25](https://github.com/xixi52/discord-canvas/issues/25) in [xixi52/discord-canvas](https://github.com/xixi52/discord-canvas)
 2. 🗣 Commented on [#25](https://github.com/xixi52/discord-canvas/issues/25) in [xixi52/discord-canvas](https://github.com/xixi52/discord-canvas)
 
