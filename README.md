@@ -6,8 +6,13 @@
 <br>
 <br>
 
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=DaatUserName&count_private=true&include_all_commits=true&theme=dark" alt="DaatUserName" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaatUserName&layout=compact&theme=dark&langs_count=15" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DaatUserName&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
+
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=DaatUserName&count_private=true&include_all_commits=true&theme=highcontrast" alt="DaatUserName" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaatUserName&layout=compact&theme=highcontrast&langs_count=15" />
 
 <br>
 <br>
