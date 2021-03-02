@@ -1,4 +1,10 @@
 <!--START_SECTION:activity-->
+<h1 align="center">Hi 👋, I'm Toby aka. Nemijah</h1>
+<h3 align="center">A 19 year old developer from Denmark</h3>
+
+<br>
+<br>
+
 1. ❗️ Closed issue [#25](https://github.com/xixi52/discord-canvas/issues/25) in [xixi52/discord-canvas](https://github.com/xixi52/discord-canvas)
 2. 🗣 Commented on [#25](https://github.com/xixi52/discord-canvas/issues/25) in [xixi52/discord-canvas](https://github.com/xixi52/discord-canvas)
 
