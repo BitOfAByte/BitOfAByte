@@ -57,12 +57,13 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=DaatUserName&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DaatUserName&hide=css,java,html&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=DaatUserName&show_icons=true&theme=highcontrast&line_height=27">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DaatUserName&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />  
 </p>
 
+
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DaatUserName&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=highcontrast">
 </p> 
 
 <p align = "center">
