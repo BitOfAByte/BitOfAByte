@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  My name is Toby aka. Nemijah. I'm a 19-year-old developer from Denmark. Trying to improve my skills in development. I'm currently studying at 
-  HTX Aabenraa (2nd year). Looking for collabs so if anyone wants to collab with me just hit me up on discord or something.<br>
-  Fun fact: I don't like candy (any kind of candy)
+  My name is Toby aka. Nemijah, I'm a 19-year-old developer from Denmark. trying to improve my skills in development. Studying at HTX Aabenraa (2nd year). Looking for
+  collabs so if anyone wants to collab with me just hit me up on discord or something.
+  Fun fact: I don't like candy (any kind of candy) 
 </p>  
 
 <h2 align="center">Connect with me ❤️</h2>
