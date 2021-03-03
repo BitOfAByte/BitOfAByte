@@ -63,7 +63,7 @@
 
 
 <p align = "center">
-  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=highcontrast">
+  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=DaatUserName&theme=highcontrast">
 </p> 
 
 <p align = "center">
