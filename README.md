@@ -45,12 +45,3 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DaatUserName&show_icons=true&locale=en&layout=compact&theme=highcontrast&line_height=0" />  
 </p>
 
-
-<p align = "center">
-  <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=DaatUserName&theme=highcontrast">
-</p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=DaatUserName&theme=redical">
-</p> 
-
