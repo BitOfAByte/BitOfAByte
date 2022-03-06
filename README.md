@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [ButterHost](github.com/butter-development-team/Frontend)
 
-- 🌱 I’m currently learning **Vue, nestjs, Flutter, tailwind css,Qt**
+- 🌱 I’m currently learning **Vue, nestjs, Flutter, tailwind css, Qt**
 
 - 👯 I’m looking to collaborate on [ButterHost](github.com/butter-development-team/Frontend)
 
