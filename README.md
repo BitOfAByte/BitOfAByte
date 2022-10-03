@@ -20,4 +20,4 @@ Looking for collabs
 
 ## My github stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DaatUserName&theme=github)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NullableDev&theme=github)](https://github.com/ryo-ma/github-profile-trophy)
