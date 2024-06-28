@@ -2,7 +2,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-Hello! my name is Tobias, but you can call me Toby. I'm a 20-year-old developer from Denmark. I started programming around 10th grade, and when I was a freshman in high school, I fell in love with programming and security. But, of course, I have other hobbies besides programming, such as drawing, listening to music, maths, physics, gaming, reading, and hanging out with friends. If you have any questions feel free to contact me hope to hear from you.
+Hello! my name is Tobias, but you can call me Toby. I'm a 22-year-old developer from Denmark. I started programming around 10th grade, and when I was a freshman in high school, I fell in love with programming and security. But, of course, I have other hobbies besides programming, such as drawing, listening to music, maths, physics, gaming, reading, and hanging out with friends. If you have any questions feel free to contact me hope to hear from you.
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
